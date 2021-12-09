@@ -8,7 +8,7 @@
 
 <section>
   <div>
-    <div>Search a Pokemon</div>
+    <div>Search a artist</div>
     <input type="text" bind:value={searched}>
     <button on:click={search}>Search</button>
   </div>
